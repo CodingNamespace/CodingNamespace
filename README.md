@@ -44,16 +44,27 @@ Here are some of the projects we are proud of. Feel free to explore them and con
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodingNamespace&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingNamespace&layout=compact&langs_count=8&theme=radical"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodingNamespace&theme=radical" alt="GitHub Streak">
-</p>
+## GitHub Statistics
+
+|Top Languages|GitHub Stats|
+|---|---|
+| ![Top Languages](https://github-readme-stats.vercel.app/api?username=CodingNamespace&show_icons=true&theme=radical&include_all_commits=true&count_private=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingNamespace&layout=compact&langs_count=8&theme=radical) |
+
+</div>
+
+---
+
+<div align="center">
+
+## Activity & Stats
+
+![Coding Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodingNamespace&theme=radical)
+
+
+</div>
 
 ---
 
